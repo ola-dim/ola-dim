@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ola-dim
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data Science Project
+- 👀 I’m interested in Data Engineering
+- 💞️ I’m looking to collaborate on Data Engineering Project
 - 📫 How to reach me abdulgafar.emilagba@gmail.com
 
 <!---
